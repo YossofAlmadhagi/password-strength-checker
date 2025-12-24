@@ -25,7 +25,7 @@ A robust Python-based tool designed to evaluate the security of passwords. This 
     ```
 3.  **Run the script:**
     ```bash
-    python password_analyzer.py
+    python password.py
     ```
 
 ## 📊 Sample Output
