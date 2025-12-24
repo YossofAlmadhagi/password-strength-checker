@@ -28,6 +28,18 @@ A robust Python-based tool designed to evaluate the security of passwords. This 
     python password.py
     ```
 
+## 🛡️ Security Standards
+The tool evaluates passwords based on the following entropy thresholds:
+
+| Entropy (Bits) | Strength Level |
+| :--- | :--- |
+| < 28 | Very Weak |
+| 28 - 35 | Weak |
+| 36 - 59 | Moderate |
+| 60 - 89 | Strong |
+| > 90 | Very Strong |
+
+
 ## 📊 Sample Output
 When you run the script, you will see an output similar to this:
 ```text
