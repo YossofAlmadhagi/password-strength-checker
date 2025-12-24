@@ -17,11 +17,11 @@ A robust Python-based tool designed to evaluate the security of passwords. This 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/YossofAlmadhagi/password-strength-checker.git](https://github.com/YossofAlmadhagi/password-strength-checker.git)
     ```
 2.  **Navigate to the project folder:**
     ```bash
-    cd YOUR_REPOSITORY_NAME
+    cd password-strength-checker
     ```
 3.  **Run the script:**
     ```bash
